@@ -49,3 +49,9 @@ npm run build
 - Start webpack dev server - ```npm run start```
 - Build sources for production (**with optimization**) - ```npm run production```
 - Clean '`dist`' folder - ```npm run clear```
+
+
+
+
+
+
